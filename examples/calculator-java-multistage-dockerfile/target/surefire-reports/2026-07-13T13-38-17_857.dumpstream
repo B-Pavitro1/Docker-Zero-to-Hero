@@ -1,0 +1,5 @@
+# Created at 2026-07-13T13:38:18.269
+Boot Manifest-JAR contains absolute paths in classpath 'D:\java-maven-arch\calculator-java-mvn-app\examples\calculator-java-multistage-dockerfile\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

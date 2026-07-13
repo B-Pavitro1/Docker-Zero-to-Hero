@@ -4,7 +4,7 @@
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="D:\java-maven-arch\calculator-java-mvn-app\target\test-classes;D:\java-maven-arch\calculator-java-mvn-app\target\classes;C:\Users\Dell 5410\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\Dell 5410\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Dell 5410\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\Dell 5410\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
+    <property name="java.class.path" value="D:\java-maven-arch\calculator-java-mvn-app\examples\calculator-java-multistage-dockerfile\target\test-classes;D:\java-maven-arch\calculator-java-mvn-app\examples\calculator-java-multistage-dockerfile\target\classes;C:\Users\Dell 5410\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\Dell 5410\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Dell 5410\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\Dell 5410\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="D:\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\Dell 5410\AppData\Local\Temp\surefire4175841113411878220\surefirebooter-20260712191444839_3.jar C:\Users\Dell 5410\AppData\Local\Temp\surefire4175841113411878220 2026-07-12T19-14-43_609-jvmRun1 surefire-20260712191444839_1tmp surefire_0-20260712191444839_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Dell 5410\AppData\Local\Temp\surefire10787669039370761044\surefirebooter-20260713133818219_3.jar C:\Users\Dell 5410\AppData\Local\Temp\surefire10787669039370761044 2026-07-13T13-38-17_857-jvmRun1 surefire-20260713133818219_1tmp surefire_0-20260713133818219_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="D:\java-maven-arch\calculator-java-mvn-app\target\test-classes;D:\java-maven-arch\calculator-java-mvn-app\target\classes;C:\Users\Dell 5410\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\Dell 5410\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Dell 5410\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\Dell 5410\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
+    <property name="surefire.test.class.path" value="D:\java-maven-arch\calculator-java-mvn-app\examples\calculator-java-multistage-dockerfile\target\test-classes;D:\java-maven-arch\calculator-java-mvn-app\examples\calculator-java-multistage-dockerfile\target\classes;C:\Users\Dell 5410\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.0\junit-jupiter-api-5.11.0.jar;C:\Users\Dell 5410\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Dell 5410\.m2\repository\org\junit\platform\junit-platform-commons\1.11.0\junit-platform-commons-1.11.0.jar;C:\Users\Dell 5410\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Dell 5410"/>
     <property name="user.language" value="en"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2023-09-19"/>
     <property name="java.home" value="D:\jdk-21"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="D:\java-maven-arch\calculator-java-mvn-app"/>
+    <property name="basedir" value="D:\java-maven-arch\calculator-java-mvn-app\examples\calculator-java-multistage-dockerfile"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Dell 5410\AppData\Local\Temp\surefire4175841113411878220\surefirebooter-20260712191444839_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Dell 5410\AppData\Local\Temp\surefire10787669039370761044\surefirebooter-20260713133818219_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21+35-2513"/>
@@ -45,7 +45,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\DELL54~1\AppData\Local\Temp\"/>
     <property name="java.version" value="21"/>
-    <property name="user.dir" value="D:\java-maven-arch\calculator-java-mvn-app"/>
+    <property name="user.dir" value="D:\java-maven-arch\calculator-java-mvn-app\examples\calculator-java-multistage-dockerfile"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -58,5 +58,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.calculator.app.AppTest" time="0.025"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.calculator.app.AppTest" time="0.039"/>
 </testsuite>
